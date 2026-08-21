@@ -1,0 +1,224 @@
+[
+  {
+    "id": "arroz-cocido",
+    "name": "Arroz blanco cocido",
+    "unit": "g",
+    "kcal": 130,
+    "p": 2.7,
+    "c": 28.2,
+    "f": 0.3
+  },
+  {
+    "id": "pasta-cocida",
+    "name": "Pasta cocida",
+    "unit": "g",
+    "kcal": 158,
+    "p": 5.8,
+    "c": 30.9,
+    "f": 0.9
+  },
+  {
+    "id": "pollo",
+    "name": "Pechuga de pollo cocinada",
+    "unit": "g",
+    "kcal": 165,
+    "p": 31,
+    "c": 0,
+    "f": 3.6
+  },
+  {
+    "id": "huevo",
+    "name": "Huevo",
+    "unit": "unidad",
+    "grams": 60,
+    "kcal": 86,
+    "p": 7.6,
+    "c": 0.4,
+    "f": 5.7
+  },
+  {
+    "id": "atún",
+    "name": "Atún al natural escurrido",
+    "unit": "g",
+    "kcal": 116,
+    "p": 26,
+    "c": 0,
+    "f": 1
+  },
+  {
+    "id": "patata",
+    "name": "Patata cocida",
+    "unit": "g",
+    "kcal": 87,
+    "p": 1.9,
+    "c": 20.1,
+    "f": 0.1
+  },
+  {
+    "id": "aguacate",
+    "name": "Aguacate",
+    "unit": "g",
+    "kcal": 160,
+    "p": 2,
+    "c": 8.5,
+    "f": 14.7
+  },
+  {
+    "id": "pan",
+    "name": "Pan de trigo",
+    "unit": "g",
+    "kcal": 265,
+    "p": 9,
+    "c": 49,
+    "f": 3.2
+  },
+  {
+    "id": "tortita-arroz",
+    "name": "Tortita de arroz",
+    "unit": "unidad",
+    "grams": 9,
+    "kcal": 35,
+    "p": 0.7,
+    "c": 7.3,
+    "f": 0.3
+  },
+  {
+    "id": "tortita-trigo",
+    "name": "Tortita de trigo",
+    "unit": "unidad",
+    "grams": 40,
+    "kcal": 125,
+    "p": 3.5,
+    "c": 20,
+    "f": 3.5
+  },
+  {
+    "id": "pavo",
+    "name": "Jamón de pavo",
+    "unit": "g",
+    "kcal": 105,
+    "p": 18,
+    "c": 3,
+    "f": 2.5
+  },
+  {
+    "id": "leche",
+    "name": "Leche semidesnatada",
+    "unit": "ml",
+    "kcal": 47,
+    "p": 3.3,
+    "c": 4.8,
+    "f": 1.6
+  },
+  {
+    "id": "yogur",
+    "name": "Yogur natural",
+    "unit": "g",
+    "kcal": 61,
+    "p": 3.5,
+    "c": 4.7,
+    "f": 3.3
+  },
+  {
+    "id": "banana",
+    "name": "Plátano",
+    "unit": "unidad",
+    "grams": 118,
+    "kcal": 105,
+    "p": 1.3,
+    "c": 27,
+    "f": 0.4
+  },
+  {
+    "id": "fresa",
+    "name": "Fresas",
+    "unit": "g",
+    "kcal": 32,
+    "p": 0.7,
+    "c": 7.7,
+    "f": 0.3
+  },
+  {
+    "id": "mandarina",
+    "name": "Mandarina",
+    "unit": "unidad",
+    "grams": 88,
+    "kcal": 47,
+    "p": 0.7,
+    "c": 12,
+    "f": 0.3
+  },
+  {
+    "id": "salmon",
+    "name": "Salmón",
+    "unit": "g",
+    "kcal": 208,
+    "p": 20,
+    "c": 0,
+    "f": 13
+  },
+  {
+    "id": "dorada",
+    "name": "Dorada cocinada",
+    "unit": "g",
+    "kcal": 128,
+    "p": 26,
+    "c": 0,
+    "f": 2.7
+  },
+  {
+    "id": "ternera",
+    "name": "Entrecot de ternera",
+    "unit": "g",
+    "kcal": 250,
+    "p": 26,
+    "c": 0,
+    "f": 17
+  },
+  {
+    "id": "aceite",
+    "name": "Aceite de oliva",
+    "unit": "g",
+    "kcal": 884,
+    "p": 0,
+    "c": 0,
+    "f": 100
+  },
+  {
+    "id": "yuca",
+    "name": "Yuca hervida",
+    "unit": "g",
+    "kcal": 160,
+    "p": 1.4,
+    "c": 38,
+    "f": 0.3
+  },
+  {
+    "id": "patacon",
+    "name": "Patacón frito",
+    "unit": "unidad",
+    "grams": 35,
+    "kcal": 100,
+    "p": 1.1,
+    "c": 15,
+    "f": 4
+  },
+  {
+    "id": "lentejas",
+    "name": "Lentejas cocidas",
+    "unit": "g",
+    "kcal": 116,
+    "p": 9,
+    "c": 20,
+    "f": 0.4
+  },
+  {
+    "id": "queso",
+    "name": "Queso fresco",
+    "unit": "g",
+    "kcal": 250,
+    "p": 18,
+    "c": 3,
+    "f": 19
+  }
+]
