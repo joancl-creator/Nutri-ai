@@ -45,3 +45,24 @@ button,input,select{font:inherit}button{cursor:pointer}
 .day-row-btn{width:100%;border:0;background:transparent;color:var(--text);text-align:left;font:inherit;cursor:pointer}
 .day-row-btn:hover{background:rgba(255,255,255,.025)}
 @media(max-width:520px){.date-nav{grid-template-columns:42px 1fr 42px}.today-btn{grid-column:2;grid-row:1}.date-picker{grid-column:2;grid-row:2;height:36px}.date-nav-btn:first-child{grid-column:1;grid-row:1 / span 2;height:82px}.date-nav-btn:last-child{grid-column:3;grid-row:1 / span 2;height:82px}}
+
+.quick-meal-input{
+  width:100%;
+  resize:vertical;
+  min-height:120px;
+  border:1px solid var(--line);
+  background:#0b0f13;
+  color:var(--text);
+  border-radius:15px;
+  padding:14px;
+  outline:none;
+  line-height:1.5;
+}
+
+.quick-meal-input:focus{
+  border-color:rgba(167,232,196,.5);
+}
+
+.quick-meal-input::placeholder{
+  color:var(--muted);
+}
